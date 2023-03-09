@@ -42,6 +42,10 @@ body {
     justify-content: space-between;
 }
 
+.wrap {
+    flex-wrap: wrap;
+}
+
 /* header */
 .h40 {
     height: 40px;
@@ -50,9 +54,13 @@ body {
 /* main */
 
 .ridimensionaCentra{
-    max-height: calc (100wh - 120px;);
+    max-height: calc (100wh - 120px);
     width: 1800px ;
     margin: 0 auto;
+}
+
+.rid {
+    width: 100%;
 }
 
 .ridImg {
