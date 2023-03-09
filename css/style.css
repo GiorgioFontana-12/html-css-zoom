@@ -113,3 +113,10 @@ footer {
     height: 80px;
 }
 
+.column {
+    align-items: column;
+}
+
+.alignCenter {
+    align-items: center;
+}
